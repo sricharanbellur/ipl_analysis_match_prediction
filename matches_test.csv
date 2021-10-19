@@ -1,0 +1,21 @@
+id,Season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2,umpire3
+1,IPL-2017,14,05-04-2017,10,3,3,1,normal,0,10.0,35,0,Yuvraj Singh,28,AY Dandekar,NJ Llong,0
+2,IPL-2017,26,06-04-2017,1,11,11,1,normal,0,11.0,0,7,SPD Smith,21,A Nand Kishore,S Ravi,0
+3,IPL-2017,28,07-04-2017,8,2,2,1,normal,0,2.0,0,10,CA Lynn,31,Nitin Menon,CK Nandan,0
+4,IPL-2017,15,08-04-2017,11,9,9,1,normal,0,9.0,0,6,GJ Maxwell,13,AK Chaudhary,C Shamshuddin,0
+5,IPL-2017,2,08-04-2017,3,7,3,0,normal,0,3.0,15,0,KM Jadhav,17,0,0,0
+6,IPL-2017,14,09-04-2017,8,10,10,1,normal,0,10.0,0,9,Rashid Khan,28,A Deshmukh,NJ Llong,0
+7,IPL-2017,23,09-04-2017,2,1,1,1,normal,0,1.0,0,4,N Rana,40,Nitin Menon,CK Nandan,0
+8,IPL-2017,15,10-04-2017,3,9,3,0,normal,0,9.0,0,8,AR Patel,13,AK Chaudhary,C Shamshuddin,0
+9,IPL-2017,26,11-04-2017,7,11,11,1,normal,0,7.0,97,0,SV Samson,21,AY Dandekar,S Ravi,0
+10,IPL-2017,23,12-04-2017,10,1,1,1,normal,0,1.0,0,4,JJ Bumrah,40,Nitin Menon,CK Nandan,0
+11,IPL-2017,21,13-04-2017,9,2,2,1,normal,0,2.0,0,8,SP Narine,8,A Deshmukh,NJ Llong,0
+12,IPL-2017,2,14-04-2017,3,1,1,1,normal,0,1.0,0,4,KA Pollard,17,KN Ananthapadmanabhan,AK Chaudhary,0
+13,IPL-2017,28,14-04-2017,11,8,8,1,normal,0,8.0,0,7,AJ Tye,31,A Nand Kishore,S Ravi,0
+14,IPL-2017,21,15-04-2017,2,10,10,1,normal,0,2.0,17,0,RV Uthappa,8,AY Dandekar,NJ Llong,0
+15,IPL-2017,10,15-04-2017,7,9,7,0,normal,0,7.0,51,0,CJ Anderson,9,YC Barde,Nitin Menon,0
+16,IPL-2017,23,16-04-2017,8,1,1,1,normal,0,1.0,0,6,N Rana,40,A Nand Kishore,S Ravi,0
+17,IPL-2017,2,16-04-2017,11,3,3,1,normal,0,11.0,27,0,BA Stokes,17,KN Ananthapadmanabhan,C Shamshuddin,0
+18,IPL-2017,10,17-04-2017,7,2,7,0,normal,0,2.0,0,4,NM Coulter-Nile,9,Nitin Menon,CK Nandan,0
+19,IPL-2017,14,17-04-2017,10,9,9,1,normal,0,10.0,5,0,B Kumar,28,AY Dandekar,A Deshmukh,0
+20,IPL-2017,28,18-04-2017,3,8,8,1,normal,0,3.0,21,0,CH Gayle,31,S Ravi,VK Sharma,0
